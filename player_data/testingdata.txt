@@ -1,0 +1,28 @@
+Player Name: testing
+Number of Hangman games played: 3
+Total time spent on Hangman games: 1.88min
+Average time spent on Hangman games: 0.63min
+Highest Score: 5
+Lowest Score: 2
+Average Score: 3.67
+------------------------------------------------------------------------------------------------------------------------
+Game 1
+Date: 9/8/2020
+Score: 5
+Words guessed correct: SWEATER, RAINCOAT, GOWN, UNIFORM
+Words skipped: TIE, STOCKINGS, ZIPPER, DRESS, VISOR, TROUSERS
+Time spent: 0.59min
+------------------------------------------------------------------------------------------------------------------------
+Game 2
+Date: 9/8/2020
+Score: 2
+Words guessed correct: TRIDENT, SWORD
+Words skipped: 
+Time spent: 0.50min
+------------------------------------------------------------------------------------------------------------------------
+Game 3
+Date: 9/8/2020
+Score: 5
+Words guessed correct: NEON, SCANDIUM, MANGANESE, NEPTUNIUM
+Words skipped: FERMIUM, TENNESSINE, SODIUM, RUBIDIUM, SAMARIUM, URANIUM
+Time spent: 0.79min
