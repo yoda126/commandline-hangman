@@ -3,4 +3,4 @@ School fundamental of javascript assignment
 
 Install readline-sync package using NPM
 
-Pathing for files may not work
+Run the javascript with the folder it is stored in as root
